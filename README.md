@@ -9,7 +9,7 @@
 
 ## Projects
 
-| Project # | Title | Description |
+| Project Link | Title | Description |
 |:-------:|-------|-------------|
 | [Project 1](./project_1) | **Agenda** | **Determining if Appt objects in an Agenda conflict** |
 | [Project 2](./project_2) | **Anagrams** | **Exercise in creation of a collection class designed for a particular algorithm** |
